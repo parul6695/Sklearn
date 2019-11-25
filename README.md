@@ -26,11 +26,15 @@ Scikit-learn come with a few standard datasets for exploration of different mode
 Scikit-learn is a great place to start  as it provides access to high-quality, easy-to-use, implementations of popular algorithms. 
 
 Installation(for Windows):
-Install the 64bit version of Python 3, for instance from https://www.python.org. Then run:
+Install the 64bit version of Python 3, for instance from https://www.python.org.
+Then run:
 $pip install –U scikit-learn 
+
 To verify your installation you can use:
 $python -m pip show scikit-learn           # to see version and where scikit-learn is installed
+
 $python -m pip freeze         # to see all packages installed
+
 $python -c  "import sklearn; sklearn.show_versions()"
 
 Below are the references to go deeper into Scikit.
