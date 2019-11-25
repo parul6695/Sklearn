@@ -1,6 +1,6 @@
 # Sklearn
 
-				                  Scikit-learn Python library for beginners in Data Science
+				        Scikit-learn Python library for beginners in Data Science
 Scikit-learn Python library implements a range of machine learning, preprocessing, cross validation and visualization algorithms using a unified interface. It focusses on modeling data not on loading and manipulating data. Some popular groups of models provided by scikit-learn include:
 • Clustering: for grouping unlabeled data such as KMeans.
 
