@@ -1,16 +1,25 @@
 # Sklearn
 
-				                                Scikit-learn Python library for beginners in Data Science
+				                  Scikit-learn Python library for beginners in Data Science
 Scikit-learn Python library implements a range of machine learning, preprocessing, cross validation and visualization algorithms using a unified interface. It focusses on modeling data not on loading and manipulating data. Some popular groups of models provided by scikit-learn include:
 • Clustering: for grouping unlabeled data such as KMeans.
+
 • Cross Validation: for performance estimation of supervised models on unseen data.
+
 • Datasets: for test and generating datasets with specific properties for investigating model behavior.
+
 • Dimensionality Reduction: for reducing the number of attributes in data for summarization, visualization and feature selection such as Principal component analysis.
+
 • Ensemble methods: for combining the predictions of multiple supervised models.
+
 • Feature extraction: for defining attributes in image and text data.
+
 • Feature selection: for identifying meaningful attributes from which to create supervised models.
+
 • Parameter Tuning: for getting the most out of supervised models.
+
 • Manifold Learning: For summarizing and depicting complex multi-dimensional data.
+
 • Supervised Models: a vast array not limited to generalized linear models, discriminate analysis, naive   bayes, lazy methods, neural networks, support vector machines and decision trees.
 
 Scikit-learn come with a few standard datasets for exploration of different models provided, for instance the iris and digits datasets for classification and the boston house prices dataset for regression.
